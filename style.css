@@ -1,0 +1,15 @@
+#dis,
+#output {
+    display: inline
+}
+.form-control {
+    height: 4em
+}
+#dis {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    vertical-align: baseline
+}
+#output {
+    float: right
+}

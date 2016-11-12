@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.min.css">
+  <title>ｆｕｌｌ　ｗｉｄｔｈ</title>
+</head>
+<body>
+  <div class="container text-center">
+    <h1>Full width characters</h1>
+    <br>
+    <div class="row">
+      <div class="col-sm-6">
+        <h2>Input:</h2>
+        <input class="form-control" onkeydown="handle(this)" oninput="handle(this)"></input>
+      </div>
+      <div class="col-sm-6">
+        <h2>Output:</h2>
+        <pre><div id="dis"></div><button class="btn" id="output" data-clipboard-target="#dis">Copy</button></pre>
+      </div>
+    </div>
+  </div>
+  <script src="width.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.15/clipboard.min.js" integrity="sha256-COWXDc7n7PAqsE3y1r4CVopxWU9JI0kenz6K4zBqhT8=" crossorigin="anonymous"></script>
+  <script>new Clipboard('#output');</script>
+</body>
+</html>
