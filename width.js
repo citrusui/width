@@ -1,4 +1,6 @@
-var $ = function (what) { return document.getElementById(what); };
+var $ = function (what) {
+  return document.getElementById(what);
+};
 
 function handle(what) {
   var t = fullw(what.value);
@@ -8,7 +10,7 @@ function handle(what) {
 function fullw(str) {
     var code, uchr, ustr;
     var out = "";
-    for (var i=0; i<str.length; i++) {
+    for (var i = 0; i < str.length; i++) {
       code = str.charCodeAt(i);
       if (code > 31 && code < 127) {
         if (code == 32) {

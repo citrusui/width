@@ -1,4 +1,4 @@
-# [ｆｕｌｌ　ｗｉｄｔｈ](https://width.citrusui.me)
+# [ｆｕｌｌ　ｗｉｄｔｈ](https://citrusui.github.io/width/)
 
 Full width character generator. Improved from [this site](http://wwwwwyoutube.com/fullw.html).
 
