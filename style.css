@@ -1,18 +1,27 @@
-#dis,
-#output {
-    display: inline;
+textarea {
+  resize: none;
 }
 
-.form-control {
-    height: 4em;
+hr {
+  margin-top: 5rem;
+  width: 50%;
+}
+
+pre {
+  font-size: 14px;
 }
 
 #dis {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    vertical-align: baseline;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  vertical-align: baseline;
 }
 
-#output {
-    float: right;
+#dis:before {
+  content:attr(data-text);
+}
+
+button {
+  margin-top: 1rem;
+  width: 25%;
 }

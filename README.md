@@ -1,7 +1,9 @@
-# [ｆｕｌｌ　ｗｉｄｔｈ](https://citrusui.github.io/width/)
+# [ＡＶＡＩＬＡＢＬＥ　ＯＮＬＩＮＥ](https://citrusui.github.io/width/)
 
-Full width character generator. Improved from [this site](http://wwwwwyoutube.com/fullw.html).
+Ａ　ＦＵＬＬ　ＷＩＤＴＨ　ＣＨＡＲＡＣＴＥＲ　ＧＥＮＥＲＡＴＯＲ　ＦＯＲ　ＴＨＥ　ＷＯＲＬＤ　ＷＩＤＥ　ＷＥＢ．
 
-Licensed under [MIT](LICENSE.md).
+ＩＭＰＲＯＶＥＤ　ＦＲＯＭ　[ＴＨＩＳ　ＳＩＴＥ．](http://wwwwwyoutube.com/fullw.html)
 
-Disclaimer: @bsdf [gave me the OK](https://twitter.com/bsdf/status/797484933354815488).
+ＬＩＣＥＮＳＥＤ　ＵＮＤＥＲ　[ＭＩＴ．](LICENSE.md)
+
+ＣＲＥＤＩＴＳ　ＴＯ　[＠ＢＳＤＦ．](https://twitter.com/bsdf/status/797484933354815488)

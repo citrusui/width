@@ -5,25 +5,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link rel="stylesheet" href="style.min.css">
-  <title>ｆｕｌｌ　ｗｉｄｔｈ</title>
+  <title>ＦＵＬＬ＿ＷＩＤＴＨ＿ＧＥＮＥＲＡＴＯＲ</title>
 </head>
 <body>
   <div class="container text-center">
-    <h1>Full width characters</h1>
+    <h1>ＦＵＬＬ＿ＷＩＤＴＨ</h1>
     <br>
     <div class="row">
-      <div class="col-sm-6">
-        <h2>Input:</h2>
-        <input class="form-control" onkeydown="handle(this)" oninput="handle(this)"></input>
+      <div class="col-sm-6 col-sm-offset-3">
+        <h2>ＩＮＰＵＴ：</h2>
+        <textarea class="form-control" onkeydown="handle(this)" oninput="handle(this)"></textarea>
       </div>
-      <div class="col-sm-6">
-        <h2>Output:</h2>
-        <pre><div id="dis"></div><button class="btn" id="output" data-clipboard-target="#dis">Copy</button></pre>
+    </div>
+      <hr>
+      <div class="row">
+      <div class="col-sm-6 col-sm-offset-3">
+        <h2>ＯＵＴＰＵＴ：</h2>
+        <pre><div data-text id="dis"></div></pre>
+        <button class="btn btn-primary" id="output" data-clipboard-target="#dis">ＣＯＰＹ</button>
       </div>
+    </div>
     </div>
   </div>
   <script src="width.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.15/clipboard.min.js" integrity="sha256-COWXDc7n7PAqsE3y1r4CVopxWU9JI0kenz6K4zBqhT8=" crossorigin="anonymous"></script>
   <script>new Clipboard('#output');</script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.ns-autogrow/1.1.6/jquery.ns-autogrow.min.js" integrity="sha256-71S1rakRcM3pYzSLPh7DdX722vDmSBxlkmosxPMF4D4=" crossorigin="anonymous"></script>
+  <script>$("textarea").autogrow({vertical:true,horizontal:false});</script>
 </body>
 </html>

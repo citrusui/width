@@ -1,1 +1,1 @@
-#dis,#output{display:inline}.form-control{height:4em}#dis{white-space:pre-wrap;word-wrap:break-word;vertical-align:baseline}#output{float:right}
+textarea{resize:none;}hr{margin-top: 5rem;width:50%}pre{font-size:14px}#dis{white-space:pre-wrap;word-wrap:break-word;vertical-align:baseline}#dis:before{content:attr(data-text)}button{margin-top:1rem;width:25%}

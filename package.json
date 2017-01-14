@@ -1,0 +1,21 @@
+{
+  "name": "width",
+  "version": "1.0.0",
+  "description": "ＦＵＬＬ　ＷＩＤＴＨ　ＣＨＡＲＡＣＴＥＲ　ＧＥＮＥＲＡＴＯＲ",
+  "main": "width.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citrusui/width.git"
+  },
+  "keywords": [
+    "unicode",
+    "es6",
+    "aesthetic"
+  ],
+  "author": "Ben Englisch and Avery Magnotti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/citrusui/width/issues"
+  },
+  "homepage": "https://citrusui.github.io/width/"
+}
