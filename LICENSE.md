@@ -1,21 +1,22 @@
-Ｔｈｅ　ＭＩＴ　Ｌｉｃｅｎｓｅ　（ＭＩＴ）
+# The MIT License (MIT)
 
-Ｃｏｐｙｒｉｇｈｔ　（ｃ）　２０１７　Ｂｅｎ　Ｅｎｇｌｉｓｃｈ　ａｎｄ　Ａｖｅｒｙ　Ｍａｇｎｏｔｔｉ
+#### Copyright (c) 2017 Baggo
 
-Ｐｅｒｍｉｓｓｉｏｎ　ｉｓ　ｈｅｒｅｂｙ　ｇｒａｎｔｅｄ，　ｆｒｅｅ　ｏｆ　ｃｈａｒｇｅ，　ｔｏ　ａｎｙ　ｐｅｒｓｏｎ　ｏｂｔａｉｎｉｎｇ　ａ　ｃｏｐｙ
-ｏｆ　ｔｈｉｓ　ｓｏｆｔｗａｒｅ　ａｎｄ　ａｓｓｏｃｉａｔｅｄ　ｄｏｃｕｍｅｎｔａｔｉｏｎ　ｆｉｌｅｓ　（ｔｈｅ　＂Ｓｏｆｔｗａｒｅ＂），　ｔｏ　ｄｅａｌ
-ｉｎ　ｔｈｅ　Ｓｏｆｔｗａｒｅ　ｗｉｔｈｏｕｔ　ｒｅｓｔｒｉｃｔｉｏｎ，　ｉｎｃｌｕｄｉｎｇ　ｗｉｔｈｏｕｔ　ｌｉｍｉｔａｔｉｏｎ　ｔｈｅ　ｒｉｇｈｔｓ
-ｔｏ　ｕｓｅ，　ｃｏｐｙ，　ｍｏｄｉｆｙ，　ｍｅｒｇｅ，　ｐｕｂｌｉｓｈ，　ｄｉｓｔｒｉｂｕｔｅ，　ｓｕｂｌｉｃｅｎｓｅ，　ａｎｄ／ｏｒ　ｓｅｌｌ
-ｃｏｐｉｅｓ　ｏｆ　ｔｈｅ　Ｓｏｆｔｗａｒｅ，　ａｎｄ　ｔｏ　ｐｅｒｍｉｔ　ｐｅｒｓｏｎｓ　ｔｏ　ｗｈｏｍ　ｔｈｅ　Ｓｏｆｔｗａｒｅ　ｉｓ
-ｆｕｒｎｉｓｈｅｄ　ｔｏ　ｄｏ　ｓｏ，　ｓｕｂｊｅｃｔ　ｔｏ　ｔｈｅ　ｆｏｌｌｏｗｉｎｇ　ｃｏｎｄｉｔｉｏｎｓ：
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
-Ｔｈｅ　ａｂｏｖｅ　ｃｏｐｙｒｉｇｈｔ　ｎｏｔｉｃｅ　ａｎｄ　ｔｈｉｓ　ｐｅｒｍｉｓｓｉｏｎ　ｎｏｔｉｃｅ　ｓｈａｌｌ　ｂｅ　ｉｎｃｌｕｄｅｄ　ｉｎ
-ａｌｌ　ｃｏｐｉｅｓ　ｏｒ　ｓｕｂｓｔａｎｔｉａｌ　ｐｏｒｔｉｏｎｓ　ｏｆ　ｔｈｅ　Ｓｏｆｔｗａｒｅ．
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
 
-ＴＨＥ　ＳＯＦＴＷＡＲＥ　ＩＳ　ＰＲＯＶＩＤＥＤ　＂ＡＳ　ＩＳ＂，　ＷＩＴＨＯＵＴ　ＷＡＲＲＡＮＴＹ　ＯＦ　ＡＮＹ　ＫＩＮＤ，　ＥＸＰＲＥＳＳ　ＯＲ
-ＩＭＰＬＩＥＤ，　ＩＮＣＬＵＤＩＮＧ　ＢＵＴ　ＮＯＴ　ＬＩＭＩＴＥＤ　ＴＯ　ＴＨＥ　ＷＡＲＲＡＮＴＩＥＳ　ＯＦ　ＭＥＲＣＨＡＮＴＡＢＩＬＩＴＹ，
-ＦＩＴＮＥＳＳ　ＦＯＲ　Ａ　ＰＡＲＴＩＣＵＬＡＲ　ＰＵＲＰＯＳＥ　ＡＮＤ　ＮＯＮＩＮＦＲＩＮＧＥＭＥＮＴ．　ＩＮ　ＮＯ　ＥＶＥＮＴ　ＳＨＡＬＬ　ＴＨＥ
-ＡＵＴＨＯＲＳ　ＯＲ　ＣＯＰＹＲＩＧＨＴ　ＨＯＬＤＥＲＳ　ＢＥ　ＬＩＡＢＬＥ　ＦＯＲ　ＡＮＹ　ＣＬＡＩＭ，　ＤＡＭＡＧＥＳ　ＯＲ　ＯＴＨＥＲ
-ＬＩＡＢＩＬＩＴＹ，　ＷＨＥＴＨＥＲ　ＩＮ　ＡＮ　ＡＣＴＩＯＮ　ＯＦ　ＣＯＮＴＲＡＣＴ，　ＴＯＲＴ　ＯＲ　ＯＴＨＥＲＷＩＳＥ，　ＡＲＩＳＩＮＧ　ＦＲＯＭ，
-ＯＵＴ　ＯＦ　ＯＲ　ＩＮ　ＣＯＮＮＥＣＴＩＯＮ　ＷＩＴＨ　ＴＨＥ　ＳＯＦＴＷＡＲＥ　ＯＲ　ＴＨＥ　ＵＳＥ　ＯＲ　ＯＴＨＥＲ　ＤＥＡＬＩＮＧＳ　ＩＮ
-ＴＨＥ　ＳＯＦＴＷＡＲＥ．
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
