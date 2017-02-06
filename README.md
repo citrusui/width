@@ -1,11 +1,7 @@
-# [ＡＶＡＩＬＡＢＬＥ　ＯＮＬＩＮＥ](https://citrusui.github.io/width/)
+# [ＡＶＡＩＬＡＢＬＥ　ＯＮＬＩＮＥ](https://baggo.github.io/width/)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/citrusui/width.svg)](https://greenkeeper.io/)
+Ａ　ＦＵＬＬ　ＷＩＤＴＨ　ＣＨＡＲＡＣＴＥＲ　ＧＥＮＥＲＡＴＯＲ　ＦＯＲ　ＴＨＥ　ＷＯＲＬＤ　ＷＩＤＥ　ＷＥＢ[．](https://www.youtube.com/watch?v=LLESzyscHAw)
 
-Ａ　ＦＵＬＬ　ＷＩＤＴＨ　ＣＨＡＲＡＣＴＥＲ　ＧＥＮＥＲＡＴＯＲ　ＦＯＲ　ＴＨＥ　ＷＯＲＬＤ　ＷＩＤＥ　ＷＥＢ．
+[ＬＩＣＥＮＳＥＤ　ＭＩＴ　©　ＢＡＧＧＯ.](LICENSE.md)
 
-ＩＭＰＲＯＶＥＤ　ＦＲＯＭ　[ＴＨＩＳ　ＳＩＴＥ．](http://wwwwwyoutube.com/fullw.html)
-
-ＬＩＣＥＮＳＥＤ　ＵＮＤＥＲ　[ＭＩＴ．](LICENSE.md)
-
-ＣＲＥＤＩＴＳ　ＴＯ　[＠ＢＳＤＦ．](https://twitter.com/bsdf/status/797484933354815488)
+ＳＰＥＣＩＡＬ　ＴＨＡＮＫＳ　ＴＯ　[＠ＢＳＤＦ．](https://twitter.com/bsdf/status/797484933354815488)
